@@ -1,0 +1,29 @@
+@import './abstracts/mixins';
+@import './abstracts/variables';
+
+@import './base/animations';
+@import './base/base';
+@import './base/typography';
+@import './base/utilities';
+
+@import './components/alert';
+@import './components/bg-video';
+@import './components/button';
+@import './components/composition';
+@import './components/feature-box';
+@import './components/form';
+@import './components/mobile-nav-btn';
+@import './components/popup';
+@import './components/story';
+
+@import './layout/card';
+@import './layout/grid';
+@import './layout/header';
+@import './layout/footer';
+
+@import './pages/home';
+@import './pages/tour';
+@import './pages/user-profile';
+
+// Unsplash.com for images
+// Coverr.co for videos
